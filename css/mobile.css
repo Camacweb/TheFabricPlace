@@ -62,12 +62,11 @@
     font-size: 2rem;
   }
 
+    #main-nav {
+      position: initial !important;
+    }
   #main-nav .logo {
     width: 250px;
   }
-    #main-nav {
-      margin: auto;
-      background: #000;
-      max-width: var(--max-width);
-    }
+
 }
