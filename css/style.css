@@ -243,13 +243,13 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 0.3;
 }
 
-/* #showcase .showcase-container {
+#showcase .showcase-container {
   display: grid;
-  grid-template-columns: repeat(2, 2fr);
+  /* grid-template-columns: repeat(2, 2fr); */
   justify-content: center;
   align-items: center;
   /* height: 50vh; 
-} */
+}
 
 #showcase .showcase-content {
   z-index: 1;
