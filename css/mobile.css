@@ -37,19 +37,19 @@
   #home-samples .samples-container,
   #main-footer .footer-container {
     grid-template-columns: 1fr;
-    padding: 0.3rem;
+    padding: 15px;
     }
     
-    #showcase .showcase-container {
+        #showcase {
       margin: 0;
       padding: 0;
     }
     
-    #showcase .showcase-content p,
+/* #showcase .showcase-content p,
     #showcase .showcase-content img {
       margin: 0;
       padding: 0;
-  }
+  */
 
   #main-footer .footer-container > *:last-child  {
     grid-column: 1;
